@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @prithvi709
-- 👀 I know Web development in MERN stack
-- 🌱 I’m currently learning React-JS,
+- 👋 Hi, I’m Prithvi Bansal
+- 👀 I am a full stack Web developer in MERN stack
 - 💞️ I’m looking to collaborate on web development projects
 - 📫 Email - prithvibansal0709@gmail.com
 - 😄 Pronouns: He/him
